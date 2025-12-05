@@ -11,10 +11,14 @@ This is a simple **Quiz App** built with **JavaScript**. I created this project 
 - **JavaScript**
 
 ## 📱 Project Preview
-![Quiz App Preview](https://github.com/user-attachments/assets/quiz-app-preview.png)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0de30a34-dbd2-4782-bfc5-e180a8192eba" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5b87a42b-7618-46f9-ab04-2350b17fdd44" />
+
+
 
 ## 🎥 Project Demo
-[Watch the Demo](https://github.com/user-attachments/assets/quiz-app-demo)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e3429c33-173a-40fb-918f-0436c9791f59" />
+
 
 ## 💬 Feedback
 
